@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/woovi-mobile-interface/static/css/main.93a0497a.css",
+    "main.js": "/woovi-mobile-interface/static/js/main.05c5e60e.js",
+    "index.html": "/woovi-mobile-interface/index.html",
+    "main.93a0497a.css.map": "/woovi-mobile-interface/static/css/main.93a0497a.css.map",
+    "main.05c5e60e.js.map": "/woovi-mobile-interface/static/js/main.05c5e60e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.05c5e60e.js"
+  ]
+}

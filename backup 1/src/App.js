@@ -9,8 +9,8 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<PaymentPage />} />
-        <Route path="/qrcode" element={<QRCodePage />} />
-        <Route path="/cartao" element={<CardPaymentPage />} />
+        <Route path="/qr-code" element={<QRCodePage />} />
+        <Route path="/card-payment" element={<CardPaymentPage />} />
       </Routes>
     </Router>
   );
