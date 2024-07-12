@@ -6,7 +6,7 @@ import CardPaymentPage from './pages/CardPaymentPage';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/woovi-mobile-interface">
       <Routes>
         <Route path="/" element={<PaymentPage />} />
         <Route path="/qrcode" element={<QRCodePage />} />
