@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/woovi-mobile-interface/static/css/main.93a0497a.css",
-    "main.js": "/woovi-mobile-interface/static/js/main.05c5e60e.js",
+    "main.js": "/woovi-mobile-interface/static/js/main.ab1a8c63.js",
     "index.html": "/woovi-mobile-interface/index.html",
     "main.93a0497a.css.map": "/woovi-mobile-interface/static/css/main.93a0497a.css.map",
-    "main.05c5e60e.js.map": "/woovi-mobile-interface/static/js/main.05c5e60e.js.map"
+    "main.ab1a8c63.js.map": "/woovi-mobile-interface/static/js/main.ab1a8c63.js.map"
   },
   "entrypoints": [
     "static/css/main.93a0497a.css",
-    "static/js/main.05c5e60e.js"
+    "static/js/main.ab1a8c63.js"
   ]
 }
